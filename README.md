@@ -5,7 +5,7 @@
 Place the out javascript files in the SuiteScripts folder of your NetSuite account.
 
 # Usage
-- Deploy the delete_close.js as a Mass Update
+- Deploy the close_massupdate.js as a Mass Update
 - Run the Custom Mass Update on the desired orders
 
 # License
